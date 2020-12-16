@@ -23,15 +23,15 @@ Lets see present platforms were we usually find couples together online!
 
 So we need something of a unique kind that targets Couple where they can hangout! where no one disturbs them and they can spend some good quality time together! which will be super personal no one disturbs them and which is so cool everyone loves to have their in their phone
 
-<h3>Who?c
+<h3>Who</h3>
 who will use our app ofcourse couples that already discussed in introduction
 So its a 2persons app so if i signup i can have only one connection whether be of any kind (Friends , BFF , Lovers) whatever that couple defines as their relation ship we'll give them special names in. Why 1 connection only? first of all to make it super personal, second it will build Trust in Couples (that he/she has that one connection that will listen to them that will care for them ) 
 
-<h3>What?<h3>
+<h3>What?</h3>
 Now i invited to app you downloaded it and we establised connection! We are a Couple!
 We want and like to know eachother well! We like to chat( Text,Voice or Video ), we like playing small games together, we want to listen to music too! and also sometimes some R(♥) stuff too! if we have an dedicated app to do all the stuff! it will be super cool! it will not be just a chatting app but much more than that, also its not a dating app or matrimony app! its basically a couples app.
 
-<h3>How or What Features?<h3>
+<h3>How or What Features?</h3>
 Initially it will be a chatting app!
 1. One Connection and Two person and they can communicate through 
     1.Text
@@ -50,10 +50,10 @@ Initially it will be a chatting app!
 5. Love Calculator or Meter that changes according to factors and features they use in app ( if cuple interacts more means high love       score if not then low) that changes over regular periods of time. (this will make them stay in app)
 6. ummm... thats it for now!
 
-<h3>Where:<h3>
+<h3>Where:</h3>
 we need to target both the platforms IOS and Android! 
 
-<h3>Which Platforms:<h3>
+<h3>Which Platforms:</h3>
 We need a Website, App both for IOS and Android (intially any one of them to test the idea)
 Development Platforms
  1. FrontEnd: Android/IOS(Native) or React Native or Flutter (App)
