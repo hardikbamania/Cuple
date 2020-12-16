@@ -1,11 +1,5 @@
 # cuple
-<<<<<<< HEAD
 <h3>Introduction</h3>
-</hr>
-=======
-<h5>Introduction</h5>
-
->>>>>>> 721ab940a999a0ac5afea05ee90d68172d285e42
 Cuple (Couple) - i think this name goes perfect with the whole idea!
 So this is 2persons chat application meaning it is made for cuples 
 Any type of couples basically meaning today we have a alot sort of relationships
