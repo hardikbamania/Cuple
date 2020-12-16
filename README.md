@@ -56,6 +56,7 @@ we need to target both the platforms IOS and Android!
 <h3>Which Platforms:</h3>
 We need a Website, App both for IOS and Android (intially any one of them to test the idea)
 Development Platforms
+
  1. FrontEnd: Android/IOS(Native) or React Native or Flutter (App)
  2. BackEnd: Firebase(for Apps this Suits best it will store our Realtime Database, Handles Push notifications and also Storage for Free initally until we target masses)
  3. For Website: we need a basic Introduction of our App website that describes our vision!
