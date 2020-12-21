@@ -4,8 +4,7 @@ Cuple (Couple) - i think this name goes perfect with the whole idea!
 So this is 2persons chat application meaning it is made for cuples 
 Any type of couples basically meaning today we have a alot sort of relationships
 like Lovers, BFFs, Friends, someother relationships too includes like Gay Lesbian etc that also includes in couples
-so the idea is we all have one person whom we are connected to and we want to share whole world with them
-like for ME its YOU! We wanted to talk to them regularly, We Like to share good/bad things with them! Share beautiful moments in short to spend some time together like couples do ♥
+so the idea is we all have one person whom we are connected to and we want to share whole world with them! We wanted to talk to them regularly, We Like to share good/bad things with them! Share beautiful moments in short to spend some time together like couples do ♥
 
 </hr>
 
